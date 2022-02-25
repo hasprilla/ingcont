@@ -83,7 +83,7 @@ define("BASEURL", $protocol.$_SERVER["HTTP_HOST"]."/facturacion/");
                                 </a> -->
                                 <a class="dropdown-item" href="<?php echo BASEURL; ?>cambiar-contrasena/">
                                     <i class="fas fa-edit fa-sm fa-fw mr-2 text-gray-400"></i>
-                                    Cambiar contraseña
+                                    Cambiar contraseña gg
                                 </a>
                                 <div class="dropdown-divider"></div>
                                 <a class="dropdown-item" href="#" data-toggle="modal" data-target="#logoutModal">
